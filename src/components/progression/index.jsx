@@ -13,8 +13,6 @@ import Tabs from "react-bootstrap/Tabs";
 import "./progression.css";
 import { data } from "../../data";
 
-// import { img } from "../../assets/luna-logo.png";
-
 export const Progression = () => {
   const [role, setRole] = useState("PD");
   const [jsonData, setJsonData] = useState(data.pd);
@@ -88,7 +86,7 @@ export const Progression = () => {
         </div>
         <div className="target-section">
           <h3>Targets</h3>
-          <Tabs defaultActiveKey="Behaviour" className="mb-3 tabtab">
+          <Tabs defaultActiveKey="Behaviour" className="mb-3">
             {jsonData.skills.map((item) => {
               let target = item.body;
               return (

@@ -13,6 +13,7 @@
 .main-btn, .main-btn>button, .main-btn>button:hover, .main-btn>button:active {
   background-color: #606c38bf !important;
   border: 1px solid #606c38bf !important;
+  border-radius: 0.25rem;
 }
 
 .main-btn:focus, .main-btn>button:focus {
@@ -79,18 +80,3 @@
 .feedback-entry {
   width: 100%;
 }
-
-
-
-/* .tab-content {
-  border: 1px solid #dee2e6;
-  border-top: transparent;
-  padding: 15px;
-} */
-
-/* .tab-content .tab-pane {
-  background-color: #FFF;
-  color: #0080FF;
-  min-height: 200px;
-  height: auto;
-} */
