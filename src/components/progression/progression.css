@@ -41,8 +41,9 @@
   border-radius: 10px;
   margin-bottom: 20px;
   padding: 5px;
+  padding-left: 20px;
   display: grid;
-  grid-template-columns: 20px auto 12px;
+  grid-template-columns: 20px auto;
   align-items: center;
 }
 
@@ -80,3 +81,6 @@
 .feedback-entry {
   width: 100%;
 }
+
+/* .form-check-input{
+} */
