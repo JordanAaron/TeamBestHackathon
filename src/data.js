@@ -4,6 +4,7 @@ var data = {
       "Associates level 2 are working under relatively close supervision of their manager but are expected to start to plan delivery of their own  activities. They understand and can explain the basics of both PA and PD Product Creation skills (coding principles, UX, requirement gathering, analysis and design patterns) and through delivery of high quality work are building a good level of trust & respect within the client and their own squads. They are also proactively identifying opportunities to build the required skills that align with the PA/PD career path.",
     skills: [
       {
+        key: 0,
         title: "Behaviour",
         body: {
           ex1: {
@@ -24,6 +25,7 @@ var data = {
         },
       },
       {
+        key: 1,
         title: "Delivery",
         body: {
           ex1: {
@@ -34,6 +36,7 @@ var data = {
         },
       },
       {
+        key: 2,
         title: "Engineering",
         body: {
           ex1: {
@@ -60,6 +63,7 @@ var data = {
       "Level 3 (PA or PD) can work in autonomy on most parts of their project. They have a good understanding of what good looks like and know how to stretch their own limits. They express ideas clearly, concisely and professionally and do not hesitate to ask for help when needed. They are respected and trusted by other team members to provide guidance as needed on both client and internal work. They proactively acquire and develop skills that are relevant to their areas of interest and desired specialism(s).",
     skills: [
       {
+        key: 0,
         title: "Behaviour",
         body: {
           ex1: {
@@ -80,6 +84,7 @@ var data = {
         },
       },
       {
+        key: 1,
         title: "Delivery",
         body: {
           ex1: {
@@ -100,6 +105,7 @@ var data = {
         },
       },
       {
+        key: 2,
         title: "Product",
         body: {
           ex1: {
@@ -126,6 +132,7 @@ var data = {
       "Level 4 are senior PA or PD, and experts in their specialism. They can deliver their work in complete autonomy, while providing clear and regular communications to team members and client/project stakeholders. They articulate themselves well in area of subject matter expertise and are respected and trusted by other team members to provide sound judgment and direction as an expert in their subjects. They are confident and comfortable operating in uncertainty helping to shape and deliver high quality work. They play a key role in creating and maintaining a positive project team environment.",
     skills: [
       {
+        key: 0,
         title: "Behaviour",
         body: {
           ex1: {
@@ -146,6 +153,7 @@ var data = {
         },
       },
       {
+        key: 1,
         title: "Delivery",
         body: {
           ex1: {
@@ -166,6 +174,7 @@ var data = {
         },
       },
       {
+        key: 2,
         title: "Experience Design",
         body: {
           ex1: {

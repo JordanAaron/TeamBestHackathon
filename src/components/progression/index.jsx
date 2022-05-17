@@ -86,11 +86,11 @@ export const Progression = () => {
         </div>
         <div className="target-section">
           <h3>Targets</h3>
-          <Tabs defaultActiveKey="Behaviour" className="mb-3">
+          <Tabs defaultActiveKey={0} className="mb-3">
             {jsonData.skills.map((item) => {
               let target = item.body;
               return (
-                <Tab key={item.title} eventKey={item.title} title={item.title}>
+                <Tab key={item.title} eventKey={item.key} title={item.title}>
                   <Form>
                     {target.ex1 ? (
                       <div className="target">
