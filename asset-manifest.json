@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TeamBestHackathon/static/css/main.ed6d8689.css",
-    "main.js": "/TeamBestHackathon/static/js/main.570f241d.js",
+    "main.css": "/TeamBestHackathon/static/css/main.8d3fc179.css",
+    "main.js": "/TeamBestHackathon/static/js/main.2a1c7e5b.js",
     "static/js/787.28cb0dcd.chunk.js": "/TeamBestHackathon/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/TeamBestHackathon/index.html",
-    "main.ed6d8689.css.map": "/TeamBestHackathon/static/css/main.ed6d8689.css.map",
-    "main.570f241d.js.map": "/TeamBestHackathon/static/js/main.570f241d.js.map",
+    "main.8d3fc179.css.map": "/TeamBestHackathon/static/css/main.8d3fc179.css.map",
+    "main.2a1c7e5b.js.map": "/TeamBestHackathon/static/js/main.2a1c7e5b.js.map",
     "787.28cb0dcd.chunk.js.map": "/TeamBestHackathon/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed6d8689.css",
-    "static/js/main.570f241d.js"
+    "static/css/main.8d3fc179.css",
+    "static/js/main.2a1c7e5b.js"
   ]
 }
